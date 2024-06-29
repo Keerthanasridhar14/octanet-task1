@@ -1,0 +1,355 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Tasty &mdash; keerthana</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content />
+	<meta name="keywords" content />
+	<meta name="author" content />
+
+	<!-- 
+	//////////////////////////////////////////////////////
+
+	FREE HTML5 TEMPLATE 
+	DESIGNED & DEVELOPED by FreeHTML5.co
+		
+	Website: 		http://freehtml5.co/
+	Email: 			info@freehtml5.co
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
+
+	//////////////////////////////////////////////////////
+	 -->
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,600i,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<!-- <div class="top-menu"> -->
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 text-center logo-wrap">
+						<div id="fh5co-logo"><a href="index.html">Tasty<span>.</span></a></div>
+					</div>
+					<div class="col-xs-12 text-center menu-1 menu-wrap">
+						<ul>
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="menu.html">Menu</a></li>
+							<li class="has-dropdown">
+								<a href="gallery.html">Gallery</a>
+								<ul class="dropdown">
+									<li><a href="#">Events</a></li>
+									<li><a href="#">Food</a></li>
+									<li><a href="#">Coffees</a></li>
+								</ul>
+							</li>
+							<li><a href="reservation.html">Reservation</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+		<!-- </div> -->
+	</nav>
+
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div class="display-t js-fullheight">
+						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
+							<h1>The Best Coffee <em>&amp;</em> Restaurant <em>in</em> Bangalore</h1>
+							<h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">Keerthana</a></h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div id="fh5co-about" class="fh5co-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
+					<img src="images/hero_1.jpeg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+				</div>
+				<div class="col-md-5 col-md-push-1 animate-box">
+					<div class="section-heading">
+						<h2>The Restaurant</h2>
+						<p>Welcome to Tasty., where culinary excellence meets exceptional service. Located in the heart of Bangalore, our restaurant offers a warm and inviting atmosphere perfect for any occasion. Our menu features a diverse selection of dishes, each crafted with the finest ingredients and a passion for flavor. Whether you're joining us for a casual lunch, a romantic dinner, or a special celebration, we promise an unforgettable dining experience. Come savor the taste of Tasty. – where every meal is a masterpiece.
+						</p>
+						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-featured-menu" class="fh5co-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 fh5co-heading animate-box">
+					<h2>Today's Menu</h2>
+					<div class="row">
+						<div class="col-md-6">
+							<p>we are excited to present today's specially curated menu. Our chefs have crafted a selection of dishes that highlight the freshest ingredients and the rich, diverse flavors of Bangalore. From tantalizing appetizers to mouthwatering main courses and delightful desserts, each dish is prepared with utmost care to provide you with an unforgettable dining experience. </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
+					<div class="fh5co-item">
+						<img src="images/gallery_9.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Bake Potato Pizza</h3>
+						<span class="fh5co-price">Rs.700<sup>.00</sup></span>
+						<p>This pizza features a crispy, golden crust topped with tender slices of baked potato, melted mozzarella cheese, and a blend of savory herbs.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
+					<div class="fh5co-item margin_top">
+						<img src="images/gallery_8.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Salted Fried Chicken</h3>
+						<span class="fh5co-price">Rs.650<sup>.00</sup></span>
+						<p> Each piece is marinated in a special blend of spices, then fried to golden perfection, ensuring a crispy exterior and juicy, tender meat inside. Lightly seasoned with a hint of sea salt, this dish is a perfect balance of flavor and crunch.</p>
+					</div>
+				</div>
+				<div class="clearfix visible-sm-block visible-xs-block"></div>
+				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
+					<div class="fh5co-item">
+						<img src="images/gallery_7.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Italian Sauce Mushroom</h3>
+						<span class="fh5co-price">Rs.450<sup>.00</sup></span>
+						<p>Tender mushrooms are sautéed to perfection and enveloped in a creamy, aromatic Italian sauce made with garlic, fresh herbs, and a touch of white wine.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
+					<div class="fh5co-item margin_top">
+						<img src="images/gallery_6.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Fried Potato w/ Garlic</h3>
+						<span class="fh5co-price">Rs.380<sup>.00</sup></span>
+						<p>Sliced potatoes are fried to a golden perfection, creating a crispy exterior while remaining tender inside. Tossed with finely minced garlic and a sprinkle of herbs, this dish offers a satisfying balance of textures and robust flavors.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-featured-testimony" class="fh5co-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 fh5co-heading animate-box">
+					<h2>Testimony</h2>
+					<div class="row">
+						<div class="col-md-6">
+							<p>The menu is thoughtfully curated, offering a delightful mix of flavors that cater to all taste buds. Each dish is a masterpiece, crafted with the freshest ingredients and a touch of love. </p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
+						<img src="images/person_1.jpg" alt="">
+				</div>
+				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
+					<blockquote>
+						<p> &ldquo; Good food in a great restaurant is more than just a meal, it's an experience that nourishes the soul.</p>
+						<p class="author"><cite>&mdash; Jane Smith</cite></p>
+					</blockquote>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="fh5co-blog" class="fh5co-section">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
+					<h2>Events</h2>
+					<p>At Tasty., we believe in creating memorable experiences for our guests. Join us for an array of exciting events, from live music nights and themed cuisine evenings to interactive cooking classes and wine tastings. Whether you’re looking to enjoy a festive holiday celebration, participate in a fun cooking competition, or simply relax with friends during a game night, our events are designed to delight and entertain. Come and be a part of our vibrant community as we celebrate great food, good company, and unforgettable moments.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/gallery_1.jpeg);"></a>
+						<div class="blog-text">
+							<span class="posted_on">Feb. 15th 2016</span>
+							<h3><a href="#">Photoshoot On The Street</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>1.2K</li>
+								<li><i class="icon-eye2"></i>2K</li>
+								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/gallery_2.jpeg);"></a>
+						<div class="blog-text">
+							<span class="posted_on">Feb. 15th 2016</span>
+							<h3><a href="#">Surfing at Philippines</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>1.2K</li>
+								<li><i class="icon-eye2"></i>2K</li>
+								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/gallery_3.jpeg);"></a>
+						<div class="blog-text">
+							<span class="posted_on">Feb. 15th 2016</span>
+							<h3><a href="#">Focus On Uderwater</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>1.2K</li>
+								<li><i class="icon-eye2"></i>2K</li>
+								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Book a Table</h2>
+					<p>Reserve your table and enjoy an unforgettable dining experience. Whether it's a special occasion or a casual meal, booking with us is easy and ensures you a spot in our cozy and welcoming atmosphere. Simply give us a call or book online to secure your place. We look forward to serving you!</p>
+					<p><a href="reservation.html" class="btn btn-primary btn-outline">Book Now</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer id="fh5co-footer" role="contentinfo" class="fh5co-section">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-4 fh5co-widget">
+					<h4>Tasty</h4>
+					<p>"Savor the Flavor, Embrace the Experience"</p>
+				</div>
+				<div class="col-md-2 col-md-push-1 fh5co-widget">
+					<h4>Links</h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Menu</a></li>
+						<li><a href="#">Gallery</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-2 col-md-push-1 fh5co-widget">
+					<h4>Categories</h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Landing Page</a></li>
+						<li><a href="#">Real Estate</a></li>
+						<li><a href="#">Personal</a></li>
+						<li><a href="#">Business</a></li>
+						<li><a href="#">e-Commerce</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-4 col-md-push-1 fh5co-widget">
+					<h4>Contact Information</h4>
+					<ul class="fh5co-footer-links">
+						<li>Church Street, <br> Suite 721, Bangalore India</li>
+						<li><a href="tel://1234567920">080 6534 2018</a></li>
+						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
+						<li><a href="http://https://freehtml5.co">keerthana.co</a></li>
+					</ul>
+				</div>
+
+			</div>
+
+			<div class="row copyright">
+				<div class="col-md-12 text-center">
+					<p>
+						<small class="block">&copy; 2016 Keerthana. All Rights Reserved.</small> 
+						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">keerthana.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+					</p>
+					<p>
+						<ul class="fh5co-social-icons">
+							<li><a href="#"><i class="icon-twitter2"></i></a></li>
+							<li><a href="#"><i class="icon-facebook2"></i></a></li>
+							<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble2"></i></a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
